@@ -5,5 +5,5 @@ def using_concat(array, string)
 end
 
 def using_insert (array)
-array.insert(string)
+.insert(array)
 end
